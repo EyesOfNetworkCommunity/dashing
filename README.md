@@ -13,6 +13,7 @@ It returns :
 You must change these variables first on the PushEonToDashing.php file with the IP address, the port and the auth token of your dashing :
 
 `$api_dashing = "http://DASHING_IP_ADDRESS:DASHING_PORT/widgets/nagios-prod"`
+
 `$dashing_token = "DASHING_AUTH_TOKEN"`
 
 
