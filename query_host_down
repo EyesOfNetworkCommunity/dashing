@@ -1,0 +1,3 @@
+GET hosts
+Stats: state = 1
+Filter: acknowledged = 0
